@@ -1,0 +1,2 @@
+# formats = "ipynb,py:marimo" # just ipynb and py (marimo format)
+formats = "ipynb,.pct.py:percent,.mo.py:marimo" # ipynb + py:percent + py:marimo
