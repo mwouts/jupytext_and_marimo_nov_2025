@@ -1,0 +1,10 @@
+# uv environment files
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Marimo
+__marimo__/
+
+
